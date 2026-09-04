@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 ## Reproducing the pipeline
 
-**Stage 1 — localization and rectification.** Runs the cascade (heavy-denoise
+**Stage 1: localization and rectification.** Runs the cascade (heavy-denoise
 preprocessing + OpenCV QR detector, then lighter binarization, the WeChat
 detector, and contour-based finder detection) over all 406 photographs:
 
@@ -66,7 +66,7 @@ reference copies in `data/warped/` untouched. The shipped run localizes 389 of
 406 images, the 303 rectified `*_s15` images are the corpus used for the
 classifier experiments.
 
-**Stage 2 — classifier training and 5-fold cross-validation.**
+**Stage 2: classifier training and 5 fold cross validation.**
 
 ```bash
 python src/cnn_train.py                     
