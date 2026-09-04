@@ -98,7 +98,7 @@ repository.
 
 ## The dataset
 
-Photographs of laser-engraved metallic markers taken with an iPhone 14 Pro and a
+Photographs of laser-engraved metallic markers taken with a phone and a
 macro lens under diffuse illumination and varying capture conditions. Each folder
 is `<geometry>_<scale>`, where geometry is `triangle`, `corner`, `square` or
 `cross`, and the scale is the encoder module rendering size (`s10` or `s15`
