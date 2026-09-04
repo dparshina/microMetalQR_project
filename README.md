@@ -1,4 +1,4 @@
-## Code, data and results for the computer-vision part of
+## Code, data and results for the computer vision part of
 
 > **AuthenTag: Vision-Enabled IoT and Permissioned Blockchain Architecture for
 > Authenticated Supply Chain Event Tracking**
