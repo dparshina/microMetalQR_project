@@ -1,0 +1,15 @@
+# Pipeline and experiments
+numpy>=1.26
+scipy>=1.11
+scikit-image>=0.22
+pillow>=10.0
+opencv-contrib-python>=4.8      # WeChat QR detector lives in contrib
+torch>=2.0
+matplotlib>=3.7
+reedsolo>=1.7
+
+# Marker encoder (src/qrgen_encoder.ipynb)
+qrcode>=7.4
+ecdsa>=0.19
+bitarray>=2.9
+eth-utils>=4.0
